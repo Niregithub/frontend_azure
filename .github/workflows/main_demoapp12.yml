@@ -55,4 +55,4 @@ jobs:
           app-name: 'demoapp12'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D1CDE977B874332AB33EB10BDA86BE5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILe_1D1CDE977B874332AB33EB10BDA86BE5 }}
